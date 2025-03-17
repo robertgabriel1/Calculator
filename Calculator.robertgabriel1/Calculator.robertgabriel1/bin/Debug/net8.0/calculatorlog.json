@@ -1,0 +1,8 @@
+{
+  "Operations": [
+    {
+      "Operand1": 2.0,
+      "Operand2": 0.0,
+      "Operation": "Exponential",
+      "Result": 100.0
+    }
